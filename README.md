@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in software enigeering 
-- 🌱 I’m currently learning cpp, assembly, css/html
-- 💞️ I’m looking to collaborate on anything ig
-- 📫 How to reach me my insta
+- 🌱 I’m currently learning Nodejs, css/html, Ocaml
 
 <!---
 joescodelmao/joescodelmao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
